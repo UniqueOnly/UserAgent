@@ -20,10 +20,10 @@ v1.0.0
 ----
 
 本插件由本人 UniqueOnly 独立开发，您可以：[光顾我的Blog](http://blog.uniqueonly.ml) 
+
 [使用方法详见](http://blog.uniqueonly.ml)
 
 
-
-下载方法
+下载链接
 ----
 [UserAgent](http://blog.uniqueonly.ml/UserAgent/UserAgent-v1.0.0.rar)
