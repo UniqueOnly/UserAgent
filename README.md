@@ -23,6 +23,7 @@ Typecho版 UserAgent插件
 ----
 
 > 解压并移动UserAgent文件夹到你的网站目录下的usr/plugins/下
+
 > 进入你的网站后台，发现即插即用，插件成功运转
 > 假如在评论信息显示，则点击控制台->外观->编辑当前外观->functions.php
 > 假如在侧栏显示，则点击控制台->外观->编辑当前外观->sidebar.php
