@@ -26,4 +26,4 @@ v1.0.0
 
 下载链接
 ----
-[UserAgent](http://blog.uniqueonly.ml/UserAgent/UserAgent-v1.0.0.rar)
+[UserAgent](http://blog.uniqueonly.ml/about-blog/23.html)
