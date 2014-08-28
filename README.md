@@ -17,7 +17,7 @@ Typecho版 UserAgent插件
 开发人员
 ----
 
-本插件由本人 [UniqueOnly][1] 独立开发
+本插件由本人 [Unique][1] 独立开发
 
 使用说明
 ----
@@ -39,5 +39,5 @@ Typecho版 UserAgent插件
 [UserAgent-v1.0.0.rar][2]
 
 
-  [1]: http://blog.uniqueonly.ml
+  [1]: http://blog.hiunique.com
   [2]: http://uniqueml.qiniudn.com/2014/08/3139837844.rar
