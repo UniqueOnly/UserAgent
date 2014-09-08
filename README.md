@@ -40,4 +40,4 @@ Typecho版 UserAgent插件
 
 
   [1]: http://blog.hiunique.com
-  [2]: http://uniqueml.qiniudn.com/2014/08/3139837844.rar
+  [2]: http://uniqueml.qiniudn.com/2014093574575583.rar
