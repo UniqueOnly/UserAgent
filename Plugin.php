@@ -4,9 +4,9 @@
  * Typecho 版 User-Agent
  *
  * @package UserAgent
- * @author UniqueOnly
+ * @author Unique
  * @version 1.0.0
- * @link http://blog.uniqueonly.ml
+ * @link http://blog.hiunique.com
  */
 class UserAgent_Plugin implements Typecho_Plugin_Interface
 {
